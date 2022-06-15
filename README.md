@@ -1,2 +1,3 @@
-# radar_simulations
-Python scripts for simulating radar signals &amp; systems. Taken from various known radar textbooks
+# Radar Modeling & Simulation
+Efforts at simulating radar signals and systems. 
+Mainly for my understanding.
